@@ -1,0 +1,6 @@
+streamlit
+langgraph
+chromadb
+sentence-transformers
+transformers
+torch
