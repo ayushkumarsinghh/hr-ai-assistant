@@ -13,6 +13,10 @@ This is a retrieval-based HR chatbot built using LangGraph, ChromaDB, and Stream
 - Sentence Transformers
 - ChromaDB
 - Streamlit
+- 
+## 📸 Demo
+
+![HR Assistant Screenshot](screenshot.png)
 
 ## Run Locally
 ```bash
